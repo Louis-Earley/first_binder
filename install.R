@@ -1,1 +1,1 @@
-install.packages(c("dplyr", "ggplot", "afex", "emmeans", "visdat"))
+install.packages(c("dplyr", "ggplot2", "afex", "emmeans", "visdat"))
